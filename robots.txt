@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://atamjonrakhimov.com/sitemap.xml
+Sitemap: https://atamjon.me/sitemap.xml
 
 # Atamjon Rakhimov — Java Backend Developer Portfolio
 # Contact: atamjon.rakhimov@gmail.com
