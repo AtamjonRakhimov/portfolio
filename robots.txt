@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://atamjonrakhimov.com/sitemap.xml
+
+# Atamjon Rakhimov — Java Backend Developer Portfolio
+# Contact: atamjon.rakhimov@gmail.com
+# Location: Tashkent, Uzbekistan
